@@ -34,9 +34,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.MultiplosDe3">
-    <configuration name="Caracteres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.guisantos.Main.Caracteres" />
+  <component name="RunManager" selected="Application.Fatorial">
+    <configuration name="Condicionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.guisantos.Main.Condicionais" />
       <module name="sintaxe-basica" />
       <extension name="coverage">
         <pattern>
@@ -48,8 +48,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Condicionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.guisantos.Main.Condicionais" />
+    <configuration name="Fatorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.guisantos.Main.Fatorial" />
       <module name="sintaxe-basica" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fatorial" />
         <item itemvalue="Application.MultiplosDe3" />
         <item itemvalue="Application.Lacos" />
         <item itemvalue="Application.Condicionais" />
         <item itemvalue="Application.TestaValores" />
-        <item itemvalue="Application.Caracteres" />
       </list>
     </recent_temporary>
   </component>
