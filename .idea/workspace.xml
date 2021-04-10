@@ -34,9 +34,35 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.TestaValores">
+  <component name="RunManager" selected="Application.Lacos">
     <configuration name="Caracteres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.guisantos.Main.Caracteres" />
+      <module name="sintaxe-basica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.guisantos.Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Condicionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.guisantos.Main.Condicionais" />
+      <module name="sintaxe-basica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.guisantos.Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lacos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.guisantos.Main.Lacos" />
       <module name="sintaxe-basica" />
       <extension name="coverage">
         <pattern>
@@ -70,6 +96,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lacos" />
+        <item itemvalue="Application.Condicionais" />
         <item itemvalue="Application.TestaValores" />
         <item itemvalue="Application.Caracteres" />
       </list>
