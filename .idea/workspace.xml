@@ -34,7 +34,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Lacos">
+  <component name="RunManager" selected="Application.MultiplosDe3">
     <configuration name="Caracteres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.guisantos.Main.Caracteres" />
       <module name="sintaxe-basica" />
@@ -74,6 +74,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MultiplosDe3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.guisantos.Main.MultiplosDe3" />
+      <module name="sintaxe-basica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.guisantos.Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Run Java" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="br.com.guisantos.Main.Programa" />
       <module name="sintaxe-basica" />
@@ -96,6 +109,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiplosDe3" />
         <item itemvalue="Application.Lacos" />
         <item itemvalue="Application.Condicionais" />
         <item itemvalue="Application.TestaValores" />
