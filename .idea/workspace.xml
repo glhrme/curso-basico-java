@@ -3,6 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="0eb3237f-ba74-43cf-b00d-1d4740a30765" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/guisantos/Main/Caracteres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/guisantos/ProgramacaoProcedural/Caracteres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/guisantos/Main/Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/guisantos/ProgramacaoProcedural/Casting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/guisantos/Main/Condicionais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/guisantos/ProgramacaoProcedural/Condicionais.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/guisantos/Main/Fatorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/guisantos/ProgramacaoProcedural/Fatorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/guisantos/Main/Lacos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/guisantos/ProgramacaoProcedural/Lacos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/guisantos/Main/MultiplosDe3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/guisantos/ProgramacaoProcedural/MultiplosDe3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/guisantos/Main/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/guisantos/ProgramacaoProcedural/Programa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/guisantos/Main/TestaValores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/guisantos/ProgramacaoProcedural/TestaValores.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,11 +44,11 @@
   </component>
   <component name="RunManager" selected="Application.Fatorial">
     <configuration name="Condicionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.guisantos.Main.Condicionais" />
+      <option name="MAIN_CLASS_NAME" value="br.com.guisantos.ProgramacaoProcedural.Condicionais" />
       <module name="sintaxe-basica" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.guisantos.Main.*" />
+          <option name="PATTERN" value="br.com.guisantos.ProgramacaoProcedural.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -49,11 +57,11 @@
       </method>
     </configuration>
     <configuration name="Fatorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.guisantos.Main.Fatorial" />
+      <option name="MAIN_CLASS_NAME" value="br.com.guisantos.ProgramacaoProcedural.Fatorial" />
       <module name="sintaxe-basica" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.guisantos.Main.*" />
+          <option name="PATTERN" value="br.com.guisantos.ProgramacaoProcedural.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,11 +70,11 @@
       </method>
     </configuration>
     <configuration name="Lacos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.guisantos.Main.Lacos" />
+      <option name="MAIN_CLASS_NAME" value="br.com.guisantos.ProgramacaoProcedural.Lacos" />
       <module name="sintaxe-basica" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.guisantos.Main.*" />
+          <option name="PATTERN" value="br.com.guisantos.ProgramacaoProcedural.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,11 +83,11 @@
       </method>
     </configuration>
     <configuration name="MultiplosDe3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.guisantos.Main.MultiplosDe3" />
+      <option name="MAIN_CLASS_NAME" value="br.com.guisantos.ProgramacaoProcedural.MultiplosDe3" />
       <module name="sintaxe-basica" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.guisantos.Main.*" />
+          <option name="PATTERN" value="br.com.guisantos.ProgramacaoProcedural.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,18 +96,18 @@
       </method>
     </configuration>
     <configuration name="Run Java" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="br.com.guisantos.Main.Programa" />
+      <option name="MAIN_CLASS_NAME" value="br.com.guisantos.ProgramacaoProcedural.Programa" />
       <module name="sintaxe-basica" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="TestaValores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.guisantos.Main.TestaValores" />
+      <option name="MAIN_CLASS_NAME" value="br.com.guisantos.ProgramacaoProcedural.TestaValores" />
       <module name="sintaxe-basica" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.guisantos.Main.*" />
+          <option name="PATTERN" value="br.com.guisantos.ProgramacaoProcedural.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

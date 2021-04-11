@@ -1,4 +1,4 @@
-package br.com.guisantos.Main;
+package br.com.guisantos.ProgramacaoProcedural;
 
 public class Condicionais {
     public static void main(String[] args) {
