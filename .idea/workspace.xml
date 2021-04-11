@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0eb3237f-ba74-43cf-b00d-1d4740a30765" name="Default Changelist" comment="Gitignore com bin">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/guisantos/POO/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/guisantos/POO/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/guisantos/POO/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/guisantos/POO/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/guisantos/POO/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/guisantos/POO/Cliente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
