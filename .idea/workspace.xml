@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0eb3237f-ba74-43cf-b00d-1d4740a30765" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/guisantos/Main/Caracteres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/guisantos/ProgramacaoProcedural/Caracteres.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/guisantos/Main/Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/guisantos/ProgramacaoProcedural/Casting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/guisantos/Main/Condicionais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/guisantos/ProgramacaoProcedural/Condicionais.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/guisantos/Main/Fatorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/guisantos/ProgramacaoProcedural/Fatorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/guisantos/Main/Lacos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/guisantos/ProgramacaoProcedural/Lacos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/guisantos/Main/MultiplosDe3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/guisantos/ProgramacaoProcedural/MultiplosDe3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/guisantos/Main/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/guisantos/ProgramacaoProcedural/Programa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/guisantos/Main/TestaValores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/guisantos/ProgramacaoProcedural/TestaValores.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +33,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="br.com.guisantos.ProgramacaoProcedural" />
+      <recent name="br.com.guisantos" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Fatorial">
     <configuration name="Condicionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
