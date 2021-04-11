@@ -1,13 +1,12 @@
 package br.com.guisantos.POO;
 
 public class Conta {
-    private double saldo;
+    private double saldo = 0.0;
     private int agencia;
     private int numero;
     private String titular;
 
-    public Conta(double saldo, int agencia, int numero, String titular) {
-        this.saldo = saldo;
+    public Conta(int agencia, int numero, String titular) {
         this.agencia = agencia;
         this.numero = numero;
         this.titular = titular;
