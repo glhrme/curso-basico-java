@@ -6,6 +6,13 @@ public class Conta {
     private int numero;
     private String titular;
 
+    public Conta(double saldo, int agencia, int numero, String titular) {
+        this.saldo = saldo;
+        this.agencia = agencia;
+        this.numero = numero;
+        this.titular = titular;
+    }
+
     public double getSaldo() {
         return saldo;
     }
