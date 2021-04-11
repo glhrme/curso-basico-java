@@ -160,4 +160,75 @@
     <MESSAGE value="Gitignore com bin" />
     <option name="LAST_COMMIT_MESSAGE" value="Gitignore com bin" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk-11.0.10/lib/src.zip!/java.base/java/util/Scanner.java</url>
+          <line>2557</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk-11.0.10/lib/src.zip!/java.base/java/util/Scanner.java</url>
+          <line>2556</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk-11.0.10/lib/src.zip!/java.base/java/util/Scanner.java</url>
+          <line>2558</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk-11.0.10/lib/src.zip!/java.base/java/util/Scanner.java</url>
+          <line>2560</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk-11.0.10/lib/src.zip!/java.base/java/util/Scanner.java</url>
+          <line>2559</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk-11.0.10/lib/src.zip!/java.base/java/util/Scanner.java</url>
+          <line>2562</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk-11.0.10/lib/src.zip!/java.base/java/util/Scanner.java</url>
+          <line>2563</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk-11.0.10/lib/src.zip!/java.base/java/util/Scanner.java</url>
+          <line>2564</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk-11.0.10/lib/src.zip!/java.base/java/util/Scanner.java</url>
+          <line>2565</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk-11.0.10/lib/src.zip!/java.base/java/util/Scanner.java</url>
+          <line>2566</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk-11.0.10/lib/src.zip!/java.base/java/util/Scanner.java</url>
+          <line>2567</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk-11.0.10/lib/src.zip!/java.base/java/util/Scanner.java</url>
+          <line>2555</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk-11.0.10/lib/src.zip!/java.base/java/util/Scanner.java</url>
+          <line>2554</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
 </project>
