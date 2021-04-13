@@ -1,68 +1,80 @@
 package br.com.guisantos.POO;
 
 public abstract class Conta {
-    private double saldo = 0.0;
+
+    protected double saldo;
     private int agencia;
     private int numero;
     private Cliente titular;
-    private static int total;
-
-    public Conta(int agencia, int numero, Cliente titular) {
+    private static int total = 0;
+    
+    public Conta(int agencia, int numero){
         Conta.total++;
+        //System.out.println("O total de contas é " + Conta.total);
         this.agencia = agencia;
         this.numero = numero;
+        //this.saldo = 100;
+        //System.out.println("Estou criando uma conta " + this.numero);
+    }
+
+    public abstract void deposita(double valor);
+
+    public boolean saca(double valor) {
+        if(this.saldo >= valor) {
+            this.saldo -= valor;
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+    public boolean transfere(double valor, Conta destino) {
+        if(this.saca(valor)) {
+        		destino.deposita(valor);
+        		return true;
+        } else {
+        		return false;
+        }
+    }
+
+    public double getSaldo(){
+        return this.saldo;
+    }
+
+    public int getNumero(){
+        return this.numero;
+    }
+
+    public void setNumero(int numero){
+        if(numero <= 0) {
+            System.out.println("Nao pode valor menor igual a 0");
+            return;
+        }
+        this.numero = numero;
+    }
+
+    public int getAgencia(){
+        return this.agencia;
+    }
+
+    public void setAgencia(int agencia){
+       if(agencia <= 0) {
+           System.out.println("Nao pode valor menor igual a 0");
+           return;
+       }
+       this.agencia = agencia;
+    }
+
+    public void setTitular(Cliente titular){
         this.titular = titular;
     }
 
-    public void depositoDinheiro(double valorDeposito) {
-        this.saldo += valorDeposito;
+    public Cliente getTitular(){
+        return this.titular;
     }
 
-    public boolean sacarDinheiro(double valorSaque) {
-        if(this.validaSaldo(valorSaque)) {
-            this.saldo -= valorSaque;
-            return true;
-        }
-
-        return false;
+    public static int getTotal(){
+        return Conta.total;
     }
 
-    public boolean transferirDinheiro(double valorTED, Conta destino) {
-        if(this.validaSaldo(valorTED)) {
-            this.saldo -= valorTED;
-            destino.depositoDinheiro(valorTED);
-            return true;
-        }
-        return false;
-    }
-
-    private boolean validaSaldo(double valorParaValidar) {
-        return this.saldo >= valorParaValidar;
-    }
-
-    public double getSaldo() {
-        return saldo;
-    }
-
-    public int getAgencia() {
-        return agencia;
-    }
-
-    public int getNumero() {
-        return numero;
-    }
-
-    public Cliente getTitular() {
-        return titular;
-    }
-
-    public static int getTotal() {
-        return total;
-    }
-
-    public static void setTotal(int total) {
-        Conta.total = total;
-    }
-
-    
 }

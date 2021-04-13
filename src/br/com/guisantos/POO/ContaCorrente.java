@@ -1,13 +1,26 @@
 package br.com.guisantos.POO;
 
-public class ContaCorrente extends Conta {
-  public ContaCorrente(int agencia, int numero, Cliente titular) {
-    super(agencia, numero, titular);
-  }
+//new ContaCorrente()
+public class ContaCorrente extends Conta implements Tributavel {
 
-  @Override
-  public boolean sacarDinheiro(double valorSaque) {
-    double valorASacar = valorSaque + 0.1;
-    return super.sacarDinheiro(valorASacar);
-  }
+	public ContaCorrente(int agencia, int numero) {
+		super(agencia, numero);
+	}
+	
+	@Override
+	public boolean saca(double valor) {
+		double valorASacar = valor + 0.2;
+		return super.saca(valorASacar);
+	}
+
+	@Override
+	public void deposita(double valor) {
+        super.saldo += valor;
+    }
+
+	@Override
+	public double getValorImposto() {	
+		return super.saldo * 0.01;
+	}
+	
 }
