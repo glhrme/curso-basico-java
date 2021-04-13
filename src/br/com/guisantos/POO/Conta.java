@@ -1,6 +1,6 @@
 package br.com.guisantos.POO;
 
-public class Conta {
+public abstract class Conta {
     private double saldo = 0.0;
     private int agencia;
     private int numero;
